@@ -57,8 +57,5 @@ detection/bears.jpg
 classification/1.ipynb
 1.txt
 
-kernels/
-assets/
-analyze/
 classification/models/pretrained/
 out/
